@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currently finishing my study on Pasundan University, Love to learn about new things while going on with it,<br>and make some achievements ( and sum money ofc cause this university stuff is expensive :) )
+#  About Me:
+I'm currently finishing my study on Pasundan University, Love to learn about new things while going on with it,<br>and make some achievements ( and sum money ofc cause this university stuff is expensive :\ ) 
 
 
 ## 🌐 Socials:
@@ -12,7 +12,5 @@ I'm currently finishing my study on Pasundan University, Love to learn about new
 ![](https://nirzak-streak-stats.vercel.app/?user=algididntwakeup&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=algididntwakeup&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=algididntwakeup&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
